@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "684726936976",
+    "firebase_url": "https://e-voting-946ae.firebaseio.com",
+    "project_id": "e-voting-946ae",
+    "storage_bucket": "e-voting-946ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684726936976:android:9a4d526c4e322201197f15",
+        "android_client_info": {
+          "package_name": "com.valaithalam.votingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684726936976-59uj2rs1mknmfabvdtp6rdu4e7pqj727.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.valaithalam.votingsystem",
+            "certificate_hash": "11de7c75a5270bad28a6b7b1f6e735dd8dc7ba2f"
+          }
+        },
+        {
+          "client_id": "684726936976-e488vsrurj8kh2c7bopamssl35m48qae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkb-uMiwdLZQ4vSHzgRfvIGhOItlpAo4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684726936976-e488vsrurj8kh2c7bopamssl35m48qae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
